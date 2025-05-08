@@ -1,0 +1,61 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Python virtual environments
+venv/
+*env/
+.venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Cache files
+*.cache
+*.log
+*.tmp
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test output
+*/__pycache__/
+tests/*.py[cod]
+
+
+# Temporary or personal files
+*.swp
+*.swo
+*~
+
+# Generated Anki files (if applicable)
+*.apkg
+
+# Dependency folders
+node_modules/
+
+# Compiled Cython files
+*.c
+*.cpp
+*.o
+*.a
+*.so
+
